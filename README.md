@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-dk&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-dk&show_icons=true&commits_year=2025)
