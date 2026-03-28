@@ -2,6 +2,8 @@
 ### Entusiasta de Tecnologia e Bacharelando em Ciência da Computação @ UNESP Rio Claro
 <p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRndW9hMGE0emxyemgwcngzdmwxMXdkdjV5Z2d1bzVjNWd6Z2F2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif" width="25%"></p>
 
+>Sou estudante de Ciência da Computação na UNESP - Rio Claro e um entusiasta de tecnologia apaixonado por resolver problemas complexos. Minha trajetória é marcada pela atuação em empresas juniores, onde desenvolvi uma visão estratégica como Vice-Presidente e Diretor Financeiro, além de experiência técnica no ciclo completo de desenvolvimento de software. Tenho forte interesse em Cibersegurança e infraestrutura técnica, sempre buscando aprender novas linguagens e ferramentas para criar soluções eficientes e seguras.
+
 </br></br></br>
 
 ## 🛠️ Tecnologias e Habilidades
