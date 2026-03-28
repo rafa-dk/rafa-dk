@@ -4,8 +4,8 @@
 
 ---
 
-## 📩 Contato
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rafael-kaneko/)
+## Contato
+- **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/rafael-kaneko/)
 - **E-mail:** rafael.daiki@unesp.br
 
 ---
