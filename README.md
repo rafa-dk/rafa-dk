@@ -1,4 +1,4 @@
-# Olá, meu nome é Rafael! 👋
+# Olá, meu nome é Rafael! 👋 <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/icons/wave.gif" width="30px">
 ### Entusiasta de Tecnologia e Bacharelando em Ciência da Computação @ UNESP Rio Claro
 
 </br></br></br>
@@ -39,11 +39,6 @@
 
 ## 📊 Estatísticas e Idiomas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-dk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-dk&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 - **Inglês:** B2 (Intermediário) 
 - **Japonês:** A2 (Básico) 
 - **Indonésio:** A1 (Iniciante)
@@ -60,5 +55,3 @@
 - **E-mail:** rafael.daiki@unesp.br
 
 </br>
-
----
