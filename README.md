@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafa! 👋
+# Olá, meu nome é Rafael! 👋
 ### Entusiasta de Tecnologia e Bacharelando em Ciência da Computação @ UNESP Rio Claro
 
 </br></br></br>
