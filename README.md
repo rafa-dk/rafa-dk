@@ -1,5 +1,5 @@
 # Olá, meu nome é Rafael! 👋
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRndW9hMGE0emxyemgwcngzdmwxMXdkdjV5Z2d1bzVjNWd6Z2F2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif" width="30px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRndW9hMGE0emxyemgwcngzdmwxMXdkdjV5Z2d1bzVjNWd6Z2F2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif" width="120px">
 ### Entusiasta de Tecnologia e Bacharelando em Ciência da Computação @ UNESP Rio Claro
 
 </br></br></br>
