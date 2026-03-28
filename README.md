@@ -1,6 +1,8 @@
 # Olá, eu sou o Rafa! 👋
 ### Entusiasta de Tecnologia e Bacharelando em Ciência da Computação @ UNESP Rio Claro
 
+
+
 ---
 
 ## 🛠️ Tecnologias e Habilidades
